@@ -6,7 +6,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "Node16",
     "target": "es2017",
     "sourceMap": true,
     "outDir": "./dist",
