@@ -1,0 +1,6 @@
+db:
+  mongo:
+    uri: mongodb://blog:EAaENahH86TZt7Te@192.168.31.52/blog
+jwt:
+  secret: abc123
+  expiresIn: 1d
